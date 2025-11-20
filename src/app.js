@@ -29,7 +29,7 @@ let whoRandom = who[Math.floor(Math.random() * who.length)];
 
 
 
-  console.log("Hello Rigo from the console!");
+  console.log(excuse);
 };
 
 
